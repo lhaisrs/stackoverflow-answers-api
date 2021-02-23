@@ -20,5 +20,4 @@ A StackOverFlow Answers API
 - [ ] Create Database
 - [ ] Create Database Queries
 - [ ] Save & Update on Database
-- [ ] Create unit testing
 - [ ] Improve Java Spring Boot Clean Architecture
